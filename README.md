@@ -1,12 +1,12 @@
-# 👋 Bonjour, je suis [Votre Nom] !
+# 👋 Hello, je suis Nor-Eddine !
 
 ## 🚀 À propos de moi
-Je suis un développeur passionné, toujours en quête de nouveaux défis et d'opportunités d'apprentissage. Mon objectif est de créer des solutions innovantes qui ont un impact positif.
+Je suis un développeur en quête constante de nouveaux défis et d'opportunités d'apprentissage. 
 
 ## 🛠️ Compétences Techniques
-- 💻 Langages : [Liste de vos langages, ex: JavaScript, Python, Java]
-- 🧰 Frameworks & Outils : [Liste de vos frameworks et outils, ex: React, Node.js, Docker]
-- 📊 Base de données : [Liste de vos bases de données, ex: MySQL, MongoDB]
+- 💻 Langages : C#, JavaScript, Python, 
+- 🧰 Frameworks & Outils : React, .Net
+- 📊 Base de données : MSSQL, MySQL, SQLite
 
 ## 🌟 Projets Phares
 <details>
@@ -22,8 +22,7 @@ Je suis un développeur passionné, toujours en quête de nouveaux défis et d'o
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=[votre_username]&show_icons=true&theme=radical)
 
 ## 🌐 Connectons-nous
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](votre_lien_linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](votre_lien_twitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/nor-eddine-benkhalifa-8705b4220)
 
 ## 💡 Un peu plus sur moi
 - 🌱 J'apprends actuellement : [Nouvelle technologie ou compétence]
