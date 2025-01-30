@@ -4,6 +4,8 @@
 Je m'appelle Nor-Eddine, je suis un développeur de 23 ans en quête de nouveaux défis et apprentissages. 
 
 ## 🛠️ Compétences Techniques
+<img align="right" height="100" src="https://media.tenor.com/vuK8sgM-VLgAAAAM/nagumo-cat.gif"  />
+
 - 💻 Langages : C#, JavaScript, Python, PHP, TypeScript
 - 🧰 Frameworks : Angular, .Net
 - 📊 Base de données : MSSQL, MySQL, SQLite
@@ -21,7 +23,6 @@ Je m'appelle Nor-Eddine, je suis un développeur de 23 ans en quête de nouveaux
   </a>
   
 </p>
-<img align="right" height="100" src="https://media.tenor.com/vuK8sgM-VLgAAAAM/nagumo-cat.gif"  />
 
 
 ## 💡 Un peu plus sur moi
