@@ -7,7 +7,7 @@ Je m'appelle Nor-Eddine, je suis un développeur de 23 ans en quête de nouveaux
 - 💻 Langages : C#, JavaScript, Python, PHP, TypeScript
 - 🧰 Frameworks : Angular, .Net
 - 📊 Base de données : MSSQL, MySQL, SQLite
-<img align="right" height="150" src="https://media.tenor.com/vuK8sgM-VLgAAAAM/nagumo-cat.gif"  />
+
 
 ## 🌐 Connectons-nous
 
@@ -19,7 +19,9 @@ Je m'appelle Nor-Eddine, je suis un développeur de 23 ans en quête de nouveaux
   <a href="mailto:noreddine.bklf@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  
 </p>
+<img align="right" height="150" src="https://media.tenor.com/vuK8sgM-VLgAAAAM/nagumo-cat.gif"  />
 
 
 ## 💡 Un peu plus sur moi
@@ -29,6 +31,5 @@ Je m'appelle Nor-Eddine, je suis un développeur de 23 ans en quête de nouveaux
 ---
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/NoreddineBenkhalifa/NoreddineBenkhalifa/output/snake.svg" alt="Snake animation" />
-
+  <i>Un grand pouvoir implique de grandes responsabilités.</i>
 </p>
