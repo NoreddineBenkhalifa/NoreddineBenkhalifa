@@ -7,7 +7,7 @@ Je m'appelle Nor-Eddine, je suis un développeur de 23 ans en quête de nouveaux
 <img align="right" height="120" src="https://media.tenor.com/vuK8sgM-VLgAAAAM/nagumo-cat.gif"  />
 
 - 💻 Langages : C#, JavaScript, Python, PHP, Flutter, TypeScript
-- 🧰 Frameworks : Angular, .Net
+- 🧰 Frameworks : Angular, .NET
 - 📊 Base de données : MSSQL, MySQL, SQLite
 
 
