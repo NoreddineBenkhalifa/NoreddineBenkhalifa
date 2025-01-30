@@ -1,11 +1,11 @@
-# 👋 Hello, je suis Nor-Eddine !
+# 👋 Hello world !
 
-## 🚀 À propos de moi
-Je suis un développeur en quête constante de nouveaux défis et d'opportunités d'apprentissage. 
+## 🚀 About me 
+Je m'appelle Nor-Eddine, je suis un développeur de 23 ans en quête de nouveaux défis et d'apprentissage. 
 
 ## 🛠️ Compétences Techniques
-- 💻 Langages : C#, JavaScript, Python, 
-- 🧰 Frameworks & Outils : React, .Net
+- 💻 Langages : C#, JavaScript, Python, PHP, TypeScript
+- 🧰 Frameworks : Angular, .Net
 - 📊 Base de données : MSSQL, MySQL, SQLite
 
 
@@ -23,11 +23,11 @@ Je suis un développeur en quête constante de nouveaux défis et d'opportunité
 
 
 ## 💡 Un peu plus sur moi
-- 🌱 J'apprends actuellement : [Nouvelle technologie ou compétence]
-- 👯 Je cherche à collaborer sur : [Type de projets]
-- 💬 Demandez-moi à propos de : [Vos domaines d'expertise]
-- ⚡ Fait amusant : [Un fait intéressant vous concernant]
+- 🌱 J'apprends actuellement : Machine learning 🤖 
+- ⭐ Je suis intéressé par : React 🔬
 
 ---
 
-⭐️ N'hésitez pas à star mes projets si vous les trouvez intéressants !
+<p align="center">
+  <i>Un grand pouvoir implique de grandes responsabilités.</i>
+</p>
