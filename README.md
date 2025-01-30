@@ -29,5 +29,6 @@ Je m'appelle Nor-Eddine, je suis un développeur de 23 ans en quête de nouveaux
 ---
 
 <p align="center">
-  <i>Un grand pouvoir implique de grandes responsabilités.</i>
+ <img src="https://raw.githubusercontent.com/NoreddineBenkhalifa/NoreddineBenkhalifa/output/snake.svg" alt="Snake animation" />
+
 </p>
