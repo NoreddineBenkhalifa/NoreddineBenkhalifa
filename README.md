@@ -23,8 +23,8 @@ Je m'appelle Nor-Eddine, je suis un développeur de 23 ans en quête de nouveaux
 
 
 ## 💡 Un peu plus sur moi
-- 🌱 J'apprends actuellement : Machine learning 🤖 
-- ⭐ Je suis intéressé par : React 🔬
+- 🌱 J'apprends actuellement : Machine learning 🤖 , React 🔬
+- ⭐ Je suis intéressé par : DevOps 👨‍💻
 
 ---
 
