@@ -21,7 +21,7 @@ Je m'appelle Nor-Eddine, je suis un développeur de 23 ans en quête de nouveaux
   </a>
   
 </p>
-<img align="right" height="50" src="https://media.tenor.com/vuK8sgM-VLgAAAAM/nagumo-cat.gif"  />
+<img align="right" height="100" src="https://media.tenor.com/vuK8sgM-VLgAAAAM/nagumo-cat.gif"  />
 
 
 ## 💡 Un peu plus sur moi
