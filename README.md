@@ -1,7 +1,7 @@
 # 👋 Hello world !
 
 ## 🚀 About me 
-Je m'appelle Nor-Eddine, je suis un développeur de 23 ans en quête de nouveaux défis et d'apprentissage. 
+Je m'appelle Nor-Eddine, je suis un développeur de 23 ans en quête de nouveaux défis et apprentissages. 
 
 ## 🛠️ Compétences Techniques
 - 💻 Langages : C#, JavaScript, Python, PHP, TypeScript
