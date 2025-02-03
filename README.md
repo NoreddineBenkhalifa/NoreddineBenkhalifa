@@ -6,7 +6,7 @@ I'm Nor-Eddine, I'm a 23-year-old developer seeking new challenges and learning 
 ## 🛠️ Tech
 <img align="right" height="120" src="https://media.tenor.com/vuK8sgM-VLgAAAAM/nagumo-cat.gif"  />
 
-- 💻 Languages: C#, JavaScript, Python, PHP, Flutter, TypeScript
+- 💻 Languages: C#, Java, C, JavaScript, Python, PHP, Flutter, TypeScript
 - 🧰 Frameworks: Angular, .NET
 - 📊 Databases: MSSQL, MySQL, SQLite
 
