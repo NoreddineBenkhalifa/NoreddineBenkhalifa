@@ -1,17 +1,17 @@
 # 👋 Hello world !
 
 ## 🚀 About me 
-Je m'appelle Nor-Eddine, je suis un développeur de 23 ans en quête de nouveaux défis et apprentissages. 
+I'm Nor-Eddine, I'm a 23-year-old developer seeking new challenges and learning opportunities.
 
-## 🛠️ Compétences Techniques
+## 🛠️ Tech
 <img align="right" height="120" src="https://media.tenor.com/vuK8sgM-VLgAAAAM/nagumo-cat.gif"  />
 
-- 💻 Langages : C#, JavaScript, Python, PHP, Flutter, TypeScript
-- 🧰 Frameworks : Angular, .NET
-- 📊 Base de données : MSSQL, MySQL, SQLite
+- 💻 Languages: C#, JavaScript, Python, PHP, Flutter, TypeScript
+- 🧰 Frameworks: Angular, .NET
+- 📊 Databases: MSSQL, MySQL, SQLite
 
 
-## 🌐 Connectons-nous
+## 🌐 Let's connect
 
 <p align="center">
   <a href="https://fr.linkedin.com/in/nor-eddine-benkhalifa-8705b4220" target="_blank">
@@ -25,9 +25,9 @@ Je m'appelle Nor-Eddine, je suis un développeur de 23 ans en quête de nouveaux
 </p>
 
 
-## 💡 Un peu plus sur moi
-- 🌱 J'apprends actuellement : Machine learning 🤖 , React 🔬
-- ⭐ Je suis intéressé par : DevOps 👨‍💻
+## 💡 More about me
+- 🌱 Currently learning: Machine Learning 🤖, React 🔬
+- ⭐ Interested in: DevOps 👨‍💻
 
 ---
 
