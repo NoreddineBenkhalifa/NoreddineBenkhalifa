@@ -1,7 +1,7 @@
 # 👋 Hello world !
 
 ## 🚀 About me 
-I'm Nor-Eddine, a 23-year-old developer seeking new challenges and learning opportunities.
+I'm Nor-Eddine, a 24-year-old developer seeking new challenges and learning opportunities.
 
 ## 🛠️ Tech
 <img align="right" height="120" src="https://media.tenor.com/vuK8sgM-VLgAAAAM/nagumo-cat.gif"  />
