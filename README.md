@@ -14,7 +14,7 @@ I'm Nor-Eddine, a 23-year-old developer seeking new challenges and learning oppo
 ## 🌐 Let's connect
 
 <p align="center">
-  <a href="https://fr.linkedin.com/in/nor-eddine-benkhalifa-8705b4220" target="_blank">
+  <a href="https://fr.linkedin.com/in/nor-eddine-benkhalifa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
